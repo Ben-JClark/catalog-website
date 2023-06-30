@@ -1,0 +1,138 @@
+:root{
+	background-color: #001a1a;
+	text-align: center;
+	color: white;
+
+}
+
+#grid_container{
+	display: grid;
+	grid-template-columns: 16% 16% 16% 16% 16%;
+	gap: 5%;
+}
+
+.grid_game{
+	visibility: visible;
+	border: 2px solid #008080;
+	background-color: #002626;
+}
+
+.grid_game form{
+	visibility: visible;
+}
+
+/* Search Bar */
+#game_search{
+	width: 300px;
+}
+
+.image_small{
+	width: 100%;
+	height: 150px;
+}
+
+.image_large{
+	width: 100%;
+	height: 100%;
+}
+
+.inputs{
+	border: 2px solid #008080;
+	background-color: #002626;
+	color: white;
+	font-size: medium;
+	font-family: Arial, Helvetica, sans-serif;
+	height: 30px;
+	width: 150px;
+	margin-bottom:15px;
+}
+
+legend{
+	color: #00b7b7;
+	font-size: medium;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+	font-size: 70px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+}
+
+p{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+	font-size: xx-large;
+	height:100px;
+}
+
+.genre{
+	font-size: large;
+}
+
+.release{
+	font-size: medium;
+}
+
+.rating{
+	font-size: medium;
+}
+
+.price{
+	font-size: medium;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.submit_button{
+	background-color: #008080;
+	width: 100%;
+	height:50px;
+	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	border-style: hidden;
+}
+.submit_button:hover{
+	background-color: #00b7b7;
+}
+
+.hidden{
+	visibility: hidden;
+}
+
+.hidden form{
+	visibility: hidden;
+}
+
+/*Styling for Page.php*/
+.wrapper{
+	border: 10px hidden #008080;
+	margin:50px;
+}
+#information{
+	
+	float: left;
+	margin: 10px;
+}
+
+#rate{
+	float: left;
+	padding: 10px;
+}
+
+
+.right{
+	margin:10px;
+	float: right;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+
+}
+.left {
+	margin:10px;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+}

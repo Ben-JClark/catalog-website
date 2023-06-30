@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+<game>
+	<title>Rust</title>
+	<genre>Survival</genre>
+	<release>2012</release>
+	<rating>5</rating>
+	<price>24.99</price>
+  <description>A complex multiplayer survival game based on a toxic wasteland with the objective to survive against other players, animals, and a harsh environment</description>
+  <image_large>img/rust_large.png</image_large>
+  <image_small>img/rust_small.png</image_small>
+</game>
+<game>
+	<title>GTA V</title>
+	<genre>Open World</genre>
+	<release>2010</release>
+	<rating>4</rating>
+	<price>49.99</price>
+  <description>A complex multiplayer criminal simulator game in a modern world with an objective to build up your criminal enterprise</description>
+  <image_large>img/gtav_large.png</image_large>
+  <image_small>img/gtav_small.png</image_small>
+</game>
+<game>
+	<title>Terraria</title>
+	<genre>Survival</genre>
+	<release>2012</release>
+	<rating>5</rating>
+	<price>11.99</price>
+  <description>A 2d blocky survival game in a fantisy world with many bosses and places to explore</description>
+  <image_large>img/terraria_large.png</image_large>
+  <image_small>img/terraria_small.png</image_small>
+</game>
+<game>
+	<title>Minecraft</title>
+	<genre>Survival</genre>
+	<release>2012</release>
+	<rating>5</rating>
+	<price>39.99</price>
+  <description>An open world blocky survival game with many building and exploring opportunities</description>
+  <image_large>img/minecraft_large.png</image_large>
+  <image_small>img/minecraft_small.png</image_small>
+</game>
+<game>
+	<title>CSGO</title>
+	<genre>FPS</genre>
+	<release>1999</release>
+	<rating>1</rating>
+	<price>0</price>
+  <description>An old crappy first person shooter with overpriced skins, to win you need to be good at camping and quickscoping</description>
+  <image_large>img/csgo_large.png</image_large>
+  <image_small>img/csgo_small.png</image_small>
+</game>
+<!--ADDING NEW GAMES-->
+<game>
+	<title>Animal Crossing New Horizons</title>
+	<genre>Social Simulator</genre>
+	<release>2020</release>
+	<rating>3</rating>
+	<price>89.99</price>
+  <description>Take a vacation to a deserted island owned by Tom Nook inc. Only to end up in debt and never leave.</description>
+  <image_large>img/acnh_large.png</image_large>
+  <image_small>img/acnh_small.png</image_small>
+</game>
+<game>
+	<title>Genshin Impact</title>
+	<genre>RPG</genre>
+	<release>2020</release>
+	<rating>4</rating>
+	<price>0</price>
+  <description>Multiplayer game where you try to find your twin through the open world of Teyvat.</description>
+  <image_large>img/genshin_large.png</image_large>
+  <image_small>img/genshin_small.png</image_small>
+</game>
+
+<game>
+	<title>Bad Ice-cream</title>
+	<genre>Arcade</genre>
+	<release>2020</release>
+	<rating>5</rating>
+	<price>0</price>
+  <description>Navigate through a maze as an ice-cream with thick eyebrows.</description>
+  <image_large>img/badic_small.png</image_large>
+  <image_small>img/badic_large.png</image_small>
+</game>
+
+<game>
+	<title>Fire Boy and Water Girl</title>
+	<genre>Arcade</genre>
+	<release>2009</release>
+	<rating>3</rating>
+	<price>0</price>
+  <description>Two player game where you navigate through a temple and try not to die.</description>
+  <image_large>img/fbwg_large.png</image_large>
+  <image_small>img/fbwg_small.png</image_small>
+</game>
+<game>
+	<title>Cool Math Games</title>
+	<genre>Arcade</genre>
+	<release>1997</release>
+	<rating>2</rating>
+	<price>0</price>
+  <description>Started out to teach to math in wholesome way. Probably not anymore. More likely to end up playing flashplayer games than doing actual math.</description>
+  <image_large>img/coolmathgame_large.png</image_large>
+  <image_small>img/coolmathgame_small.png</image_small>
+</game>
+<game>
+	<title>Stardew Valley</title>
+	<genre>Farming Sim</genre>
+	<release>2016</release>
+	<rating>4</rating>
+	<price>24.99</price>
+  <description>You are an office worker and your grandpa left you an inheritance...it is a farm. Goodluck trying to build your farming empire. Time limits do apply.</description>
+  <image_large>img/stardew_large.png</image_large>
+  <image_small>img/stardew_small.png</image_small>
+</game>
+<game>
+	<title>Bear and Breakfast</title>
+	<genre>Management Sim</genre>
+	<release>2022</release>
+	<rating>2</rating>
+	<price>24.99</price>
+  <description>Build your bed and breakfast empire as a bear with opposable thumbs. If the real world is not stressful eniugh you can always take up a mangement position keeping customers happy in Bear and Breakfast.</description>
+  <image_large>img/bearbreakfast_large.png</image_large>
+  <image_small>img/bearbreakfast_small.png</image_small>
+</game>
+<game>
+	<title>Avalanche</title>
+	<genre>Arcade</genre>
+	<release>2009</release>
+	<rating>4</rating>
+	<price>0</price>
+  <description>You are a penguin being chased by a Yeti who is also being chased by avalanche.</description>
+  <image_large>img/avalanche_large.png</image_large>
+  <image_small>img/avalanche_small.png</image_small>
+</game>
+<game>
+	<title>Crossy Road</title>
+	<genre>Arcade</genre>
+	<release>2014</release>
+	<rating>2</rating>
+	<price>0</price>
+  <description>You play as a chicken who is trying to cross the road. Guess what happens if you do not cross the road? You die.</description>
+  <image_large>img/crossyroad_large.png</image_large>
+  <image_small>img/crossyroad_small.png</image_small>
+</game>
+<game>
+	<title>Dinosaur Game</title>
+	<genre>Survival</genre>
+	<release>2014</release>
+	<rating>1</rating>
+	<price>0</price>
+  <description>Jump over the cactus when your WI-FI is offline. Even offline chrome will still eat your RAM.</description>
+  <image_large>img/dinosaur_large.png</image_large>
+  <image_small>img/dinosaur_small.png</image_small>
+</game>
+<game>
+	<title>Pac-Man</title>
+	<genre>Arcade</genre>
+	<release>1980</release>
+	<rating>3</rating>
+	<price>0</price>
+  <description>Run away from ghosts and eat dots. It is pretty self explanatory.</description>
+  <image_large>img/pacman_large.png</image_large>
+  <image_small>img/pacman_small.png</image_small>
+</game>
+<game>
+	<title>Subway Surfer</title>
+	<genre>Mobile</genre>
+	<release>2012</release>
+	<rating>2</rating>
+	<price>0</price>
+  <description>Despite never learning from your past mistakes you continue to tag subways all over the world. Security is after you in every city you visit.</description>
+  <image_large>img/subwaysurfer_large.png</image_large>
+  <image_small>img/subwaysurfer_small.png</image_small>
+</game>
+<game>
+	<title>Pong</title>
+	<genre>Arcade</genre>
+	<release>1972</release>
+	<rating>1</rating>
+	<price>0</price>
+  <description>Classic arcade game where you play ping pong back and forth against your opponent or your computer.</description>
+  <image_large>img/pong_large.png</image_large>
+  <image_small>img/pong_small.png</image_small>
+</game>
+<game>
+	<title>Snake</title>
+	<genre>Arcade</genre>
+	<release>1976</release>
+	<rating>1</rating>
+	<price>0</price>
+  <description>Navigate around a screen and try eat an apple. Usually the default game on elderly devices.</description>
+  <image_large>img/snake_large.png</image_large>
+  <image_small>img/snake_small.png</image_small>
+</game>
+<game>
+	<title>Tetris</title>
+	<genre>Puzzle</genre>
+	<release>1984</release>
+	<rating>4</rating>
+	<price>0</price>
+  <description>A block puzzle game where you stack bricks into a grid. Great practice for future brick layers.</description>
+  <image_large>img/tetris_large.png</image_large>
+  <image_small>img/tetris_small.png</image_small>
+</game>
+
+</games>
